@@ -1,0 +1,13 @@
+sitemap zuhause label="Zuhause" {
+	Frame {
+		Group item=Balcony
+		Group item=Bathroom
+		Group item=GuestRoom
+		Group item=Kitchen
+		Group item=LivingDining
+		Group item=MasterBedroom
+		Group item=Toilet
+		Group item=Entryway
+		Group item=StorageRoom
+	}
+}
